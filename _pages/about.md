@@ -39,6 +39,19 @@ I am a PhD student in the School of Computing and Information systems at the [Un
 **Reference:** Tian, S., Yin, P., Zhang, H., Erdengasileng, A., Bian, J., & He, Z. (BIBM 2023). Parsing Clinical Trial Eligibility Criteria for Cohort Query by a Multi-Input Multi-Output Sequence Labeling Model.2023 **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, Istanbul, Turkiye, pp. 4426-4430 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/parsing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parsing Eligibility Criteria for Cohort Query by a Multi-Input Multi-Output Sequence Labeling Model](https://pmc.ncbi.nlm.nih.gov/articles/PMC11251129/pdf/nihms-2007993.pdf)
+
+- To enable electronic screening of eligible patients for clinical trials, free-text clinical trial eligibility criteria should be translated to a computable format. **Natural language processing (NLP)** techniques have the potential to automate this process. In this study, we explored a supervised multi-input multi-output (MIMO) sequence labelling model to parse eligibility criteria into combinations of fact and condition tuples. Our experiments on a small manually annotated training dataset showed that that the performance of the MIMO framework with a BERT-based encoder using all the input sequences achieved an overall lenient-level AUROC of 0.61.
+- This study is funded in part by the National Institutes of Health (NIH) through awards: R21 AG068717 and R21 CA253394.
+</div>
+</div>
+
+**Reference:** Zhao, Y., Yin, P., Li, Y., He, X., Du, J., Tao, C., Guo, Y., Prosperi, M., Veltri, P., Wu, Y., & Bian, J. (AMIA 2021). Data and Model Biases in Social Media Analyses: A Case Study of COVID-19 Tweets. **American Medical Informatics Association Annual Symposium - Computing Research and Education Association of Australasia (CORE) Ranking A**
+
+
 # 🎉 News
 - *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
 
