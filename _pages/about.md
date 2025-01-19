@@ -30,15 +30,13 @@ I am a PhD student in the School of Computing and Information systems at the [Un
 <div class='paper-box-text' markdown="1">
 
 [Parsing Eligibility Criteria for Cohort Query by a Multi-Input Multi-Output Sequence Labeling Model](https://pmc.ncbi.nlm.nih.gov/articles/PMC11251129/pdf/nihms-2007993.pdf)
+-This study is funded in part by the National Institutes of Health (NIH) through awards: R21 AG068717 and R21 CA253394.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - To enable electronic screening of eligible patients for clinical trials, free-text clinical trial eligibility criteria should be translated to a computable format. Natural language processing (NLP) techniques have the potential to automate this process. In this study, we explored a supervised multi-input multi-output (MIMO) sequence labelling model to parse eligibility criteria into combinations of fact and condition tuples. Our experiments on a small manually annotated training dataset showed that that the performance of the MIMO framework with a BERT-based encoder using all the input sequences achieved an overall lenient-level AUROC of 0.61. Although the performance is suboptimal, representing eligibility criteria into logical and semantically clear tuples can potentially make subsequent translation of these tuples into database queries more reliable.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎉 Journal Review Activity
 - *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
