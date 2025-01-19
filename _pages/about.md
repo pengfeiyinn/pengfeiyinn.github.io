@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student in school of computing and information systems at the University of Melbourne, with a focus on clinical data science. My current research involves measuring and visualizing healthcare process variability by designing scalable data pipelines. You can find my publications here: <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com.au/citations?user=9vxtXjwAAAAJ&hl=en)'>.
+I am a PhD student in school of computing and information systems at the University of Melbourne, with a focus on clinical data science. My current research involves measuring and visualizing healthcare process variability by designing scalable data pipelines. 
 
 
 # 🔥 News
