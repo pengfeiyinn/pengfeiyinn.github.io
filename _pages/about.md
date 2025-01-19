@@ -47,4 +47,4 @@ I am a PhD student in the School of Computing and Information systems at the [Un
 - *2024.03 - (now)*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au). 
 - *2019.08 - 2021.05*, Master of Science in Biomedical Informatics , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0).
 - *2019.08 - 2021.05*, Master of Science in Electrical and Computer Engineering , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0).
-- *2013.09 - 2017.06*, Bachelor of Engineering in Electrical Engineering , [Qingdao University](https://www.usnews.com/education/best-global-universities/qingdao-university-529026#rankings) (GPA:88.32/100). 
+
