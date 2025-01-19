@@ -19,12 +19,12 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student in school of computing and information systems at the University of Melbourne, with a focus on clinical data science. My current research involves measuring and visualizing healthcare process variability by designing scalable data pipelines. I am supervised by [A/Prof Daniel Capurro Nario](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) in Digital Health and [Dr.Abel Armas Cervantes](https://findanexpert.unimelb.edu.au/profile/822941-abel-armas-cervantes) from the School of Computing and Information Systems at the University of Melbourne.
+I am a PhD student in the School of Computing and Information systems at the University of Melbourne, specializing in clinical data science. My research involves the application of artificial intelligence and process mining within clinical settings to improve patient care and outcomes. I’m really passionate about computer science and biomedical informatics, and I love using new technology to make healthcare better for everyone. Currently,I focus on designing scalable data pipelines to measure and visualize variability in healthcare processes. I am supervised by [A/Prof Daniel Capurro Nario](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) from [Center for Digital Transformation of Health](https://mdhs.unimelb.edu.au/digitalhealth) and [Dr.Abel Armas Cervantes](https://findanexpert.unimelb.edu.au/profile/822941-abel-armas-cervantes) from the School of Computing and Information Systems at the University of Melbourne.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.04*: &nbsp;🎉🎉 Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
+- *2022.02*: &nbsp;🎉🎉 . 
 
 # 📝 Publications 
 
