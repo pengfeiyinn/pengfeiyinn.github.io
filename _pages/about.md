@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student in the School of Computing and Information systems at the University of Melbourne, specializing in clinical data science. My research involves the application of artificial intelligence and process mining within clinical settings to improve patient care and outcomes. I’m really passionate about computer science and biomedical informatics, and I love using new technology to make healthcare better for everyone. Currently,I focus on designing scalable data pipelines to measure and visualize variability in healthcare processes. I am supervised by [A/Prof Daniel Capurro Nario](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) from [Center for Digital Transformation of Health](https://mdhs.unimelb.edu.au/digitalhealth) and [Dr.Abel Armas Cervantes](https://findanexpert.unimelb.edu.au/profile/822941-abel-armas-cervantes) from the School of Computing and Information Systems at the University of Melbourne.
+I am a PhD student in the School of Computing and Information systems at the [University of Melbourne](https://www.unimelb.edu.au), specializing in clinical data science. My research involves the application of artificial intelligence and process mining within clinical settings to improve patient care and outcomes. I’m really passionate about computer science and biomedical informatics, and I love using new technology to make healthcare better for everyone. Currently,I focus on designing scalable data pipelines to measure and visualize variability in healthcare processes. I am supervised by [A/Prof Daniel Capurro Nario](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) from [Center for Digital Transformation of Health](https://mdhs.unimelb.edu.au/digitalhealth) and [Dr.Abel Armas Cervantes](https://findanexpert.unimelb.edu.au/profile/822941-abel-armas-cervantes) from the School of Computing and Information Systems at the University of Melbourne.
 
 
 
@@ -44,7 +44,7 @@ I am a PhD student in the School of Computing and Information systems at the Uni
 - *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
 
 # 📖 Educations
-- *2024.03 - (now)*, Doctor of Philosophy in Engineering and IT. 
-- *2019.08 - 2021.05*, Master of  .
-- *2019.08 - 2021.05*, Master of .
-- *2019.08 - 2021.05*, Master of . 
+- *2024.03 - (now)*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au). 
+- *2019.08 - 2021.05*, Master of Science in Biomedical Informatics , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0).
+- *2019.08 - 2021.05*, Master of Science in Electrical and Computer Engineering , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0).
+- *2013.09 - 2017.06*, Bachelor of Engineering in Electrical Engineering , [Qingdao University](https://www.usnews.com/education/best-global-universities/qingdao-university-529026#rankings) (GPA:88.32/100). 
