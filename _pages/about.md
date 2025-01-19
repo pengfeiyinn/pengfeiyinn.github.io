@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student in school of computing and information systems at the University of Melbourne, with a focus on clinical data science. My current research involves measuring and visualizing healthcare process variability by designing scalable data pipelines. I am supervised by [Prof.Daniel Capurro] (https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) of Digital Health from Faculty of , Univerisity of Melbourne 
+I am a PhD student in school of computing and information systems at the University of Melbourne, with a focus on clinical data science. My current research involves measuring and visualizing healthcare process variability by designing scalable data pipelines. I am supervised by [Prof.Daniel Capurro](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) of Digital Health from Faculty of , Univerisity of Melbourne 
 
 
 # 🔥 News
