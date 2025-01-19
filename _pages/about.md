@@ -40,8 +40,8 @@ I am a PhD student in the School of Computing and Information systems at the Uni
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# Journal Review Activity
-- *2023.04*: &nbsp;🎉🎉 Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
+# 🎉 Journal Review Activity
+- *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
 
 # 📖 Educations
 - *2024.03 - (now)*, Doctor of Philosophy in Engineering and IT. 
