@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome!
+# Welcome!
 
-My research interest includes neural machine translation and computer vision. I have published 6 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>26</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.au/citations?user=9vxtXjwAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a PhD student in school of computing and information systems at the University of Melbourne, with a focus on clinical data science. My current research involves measuring and visualizing healthcare process variability by designing scalable data pipelines. You can find my publications here: <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com.au/citations?user=9vxtXjwAAAAJ&hl=en)'>google scholar citations <strong><span id='total_cit'>26</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.au/citations?user=9vxtXjwAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
