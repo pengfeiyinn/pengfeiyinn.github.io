@@ -22,7 +22,7 @@ redirect_from:
 I am a PhD student in the School of Computing and Information systems at the University of Melbourne, specializing in clinical data science. My research involves the application of artificial intelligence and process mining within clinical settings to improve patient care and outcomes. I’m really passionate about computer science and biomedical informatics, and I love using new technology to make healthcare better for everyone. Currently,I focus on designing scalable data pipelines to measure and visualize variability in healthcare processes. I am supervised by [A/Prof Daniel Capurro Nario](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) from [Center for Digital Transformation of Health](https://mdhs.unimelb.edu.au/digitalhealth) and [Dr.Abel Armas Cervantes](https://findanexpert.unimelb.edu.au/profile/822941-abel-armas-cervantes) from the School of Computing and Information Systems at the University of Melbourne.
 
 
-# 🔥 NewsJournal Review Activity
+# 🔥 Journal Review Activity
 - *2023.04*: &nbsp;🎉🎉 Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
 
 # 📝 Publications 
