@@ -32,20 +32,20 @@ I am a PhD student in the School of Computing and Information systems at the [Un
 [Parsing Eligibility Criteria for Cohort Query by a Multi-Input Multi-Output Sequence Labeling Model](https://pmc.ncbi.nlm.nih.gov/articles/PMC11251129/pdf/nihms-2007993.pdf)
 
 - To enable electronic screening of eligible patients for clinical trials, free-text clinical trial eligibility criteria should be translated to a computable format. **Natural language processing (NLP)** techniques have the potential to automate this process. In this study, we explored a supervised multi-input multi-output (MIMO) sequence labelling model to parse eligibility criteria into combinations of fact and condition tuples. Our experiments on a small manually annotated training dataset showed that that the performance of the MIMO framework with a BERT-based encoder using all the input sequences achieved an overall lenient-level AUROC of 0.61.
-- This study is funded in part by the National Institutes of Health (NIH) through awards: R21 AG068717 and R21 CA253394.
+- This study was funded in part by the National Institutes of Health (NIH) through awards: R21 AG068717 and R21 CA253394.
 </div>
 </div>
 
 **Reference:** Tian, S., Yin, P., Zhang, H., Erdengasileng, A., Bian, J., & He, Z. (BIBM 2023). Parsing Clinical Trial Eligibility Criteria for Cohort Query by a Multi-Input Multi-Output Sequence Labeling Model.2023 **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, Istanbul, Turkiye, pp. 4426-4430 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/parsing.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMIA 2021</div><img src='images/socialdata.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Parsing Eligibility Criteria for Cohort Query by a Multi-Input Multi-Output Sequence Labeling Model](https://pmc.ncbi.nlm.nih.gov/articles/PMC11251129/pdf/nihms-2007993.pdf)
+[Data and Model Biases in Social Media Analyses: A Case Study of COVID-19 Tweets](https://pmc.ncbi.nlm.nih.gov/articles/PMC8861742/pdf/3577200.pdf)
 
-- To enable electronic screening of eligible patients for clinical trials, free-text clinical trial eligibility criteria should be translated to a computable format. **Natural language processing (NLP)** techniques have the potential to automate this process. In this study, we explored a supervised multi-input multi-output (MIMO) sequence labelling model to parse eligibility criteria into combinations of fact and condition tuples. Our experiments on a small manually annotated training dataset showed that that the performance of the MIMO framework with a BERT-based encoder using all the input sequences achieved an overall lenient-level AUROC of 0.61.
-- This study is funded in part by the National Institutes of Health (NIH) through awards: R21 AG068717 and R21 CA253394.
+- During the coronavirus disease pandemic (COVID-19), social media platforms such as Twitter have become a venue for individuals, health professionals, and government agencies to share COVID-19 information. Twitter has been a popular source of data for researchers, especially for public health studies. However, the use of Twitter data for research also has drawbacks and barriers. Biases appear everywhere from data collection methods to modeling approaches, and those biases have not been systematically assessed. In this study, we examined six different data collection methods and three different machine learning (ML) models-commonly used in social media analysis-to assess data collection bias and measure ML models’ sensitivity to data collection bias. We showed that (1) publicly available Twitter data collection endpoints with appropriate strategies can collect data that is reasonably representative of the Twitter universe; and (2) careful examinations of ML models’ sensitivity to data collection bias are critical.
+- This work was supported in part by NSF Award #1734134
 </div>
 </div>
 
