@@ -45,6 +45,6 @@ I am a PhD student in the School of Computing and Information systems at the [Un
 
 # 📖 Educations
 - *2024.03 - (now)*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au). 
-- *2019.08 - 2021.05*, Master of Science in Biomedical Informatics , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0).
+- *2021.08 - 2023.05*, Master of Science in Biomedical Informatics , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0).
 - *2019.08 - 2021.05*, Master of Science in Electrical and Computer Engineering , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0).
 
