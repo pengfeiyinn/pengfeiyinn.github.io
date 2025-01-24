@@ -107,3 +107,20 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+
+// In your main.scss or wherever you import partials:
+@import "vendor/breakpoint/breakpoint";
+@import "variables";
+@import "mixins";
+// ... existing imports ...
+@import "print";
+
+// Finally import your custom overrides
+@import "custom-styles";
+@import url("https://fonts.googleapis.com/css?family=YourFontName&display=swap");
+
+body {
+  font-family: "YourFontName", sans-serif;
+}
