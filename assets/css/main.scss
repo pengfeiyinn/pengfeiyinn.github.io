@@ -110,17 +110,4 @@ h1:before, .anchor:before {
 
 
 
-// In your main.scss or wherever you import partials:
-@import "vendor/breakpoint/breakpoint";
-@import "variables";
-@import "mixins";
-// ... existing imports ...
-@import "print";
 
-// Finally import your custom overrides
-@import "custom-styles";
-@import url("https://fonts.googleapis.com/css?family=YourFontName&display=swap");
-
-body {
-  font-family: "YourFontName", sans-serif;
-}
