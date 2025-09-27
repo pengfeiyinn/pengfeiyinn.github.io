@@ -26,6 +26,18 @@ I am a PhD student in the School of Computing and Information Systems at the [Un
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2025</div><img src='images/measuring.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Measuring and visualizing healthcare process variability](https://pubmed.ncbi.nlm.nih.gov/40998279/)
+
+- Understanding factors that contribute to clinical variability in patient care is critical, as unwarranted variability can lead to increased adverse events and prolonged hospital stays. Determining when this variability becomes excessive can be a step in optimizing patient outcomes and healthcare efficiency. In this study, we presents a standardized way to measure and visualize variability in clinical processes and measure its impact on patient-relevant outcomes.
+
+**Reference:** **Yin, P.**, Cervantes, A. A., & Capurro, D. (2025). Measuring and visualizing healthcare process variability. **Journal of biomedical informatics**, 104918. Advance online publication. https://doi.org/10.1016/j.jbi.2025.104918 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/parsing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
