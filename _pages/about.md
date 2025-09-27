@@ -27,7 +27,7 @@ I am a PhD student in the School of Computing and Information Systems at the [Un
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2025</div><img src='images/measuring.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2025</div><img src='images/measuring.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Measuring and Visualizing Healthcare Process Variability](https://pubmed.ncbi.nlm.nih.gov/40998279/)
