@@ -79,6 +79,7 @@ I am a PhD student in the School of Computing and Information Systems at the [Un
 </div>
 
 # 🎉 News
+- *2025.10*: &nbsp; Invited to serve as a reviewer for the Journal of Biomedical Informatics. 
 - *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
 
 # 📖 Educations
