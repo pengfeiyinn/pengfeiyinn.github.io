@@ -83,7 +83,7 @@ I am a PhD student in the School of Computing and Information Systems at the [Un
 - *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
 
 # 📖 Educations
-- *2024.03 - (now)*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au), Australia. 
+- *2024.03 - 2026.08*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au), Australia. 
 - *2021.08 - 2023.05*, Master of Science in Biomedical Informatics , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0), United States.
 - *2019.08 - 2021.05*, Master of Science in Electrical and Computer Engineering , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0), United States.
 
