@@ -79,9 +79,9 @@ I am a PhD student in the School of Computing and Information Systems at the [Un
 </div>
 
 # 🎉 Journal and Conference Reviewer
-- *2025.11*: &nbsp; Invited to serve as a reviewer for the The Journal of Supercomputing. 
-- *2025.10*: &nbsp; Invited to serve as a reviewer for the Journal of Biomedical Informatics. 
-- *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 American Medical Informatics Association Annual Symposium(AMIA). 
+- *2025.11*: &nbsp; Invited to serve as a reviewer for the **The Journal of Supercomputing**. 
+- *2025.10*: &nbsp; Invited to serve as a reviewer for the **Journal of Biomedical Informatics**. 
+- *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 **American Medical Informatics Association Annual Symposium(AMIA)**. 
 
 # 📖 Educations
 - *2024.03 - 2026.08*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au), Australia. 
