@@ -78,7 +78,7 @@ I am a PhD student in the School of Computing and Information Systems at the [Un
 </div>
 </div>
 
-# 🎉 Journal and Conference Reviewer
+# 🎉 Reviewer
 - *2025.11*: &nbsp; Invited to serve as a reviewer for the **BMC Medical Genomics**. 
 - *2025.11*: &nbsp; Invited to serve as a reviewer for the **The Journal of Supercomputing**. 
 - *2025.10*: &nbsp; Invited to serve as a reviewer for the **Journal of Biomedical Informatics**. 
