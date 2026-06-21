@@ -30,9 +30,11 @@ I am a PhD candidate in the School of Computing and Information Systems at the [
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[X-FEMR: A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models](Accepted Rate:18%)
+[X-FEMR: A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models]
 
 - Foundation Models for Electronic Health Records (FEMRs) are pretrained on large-scale structured patient data, enabling them to convert longitudinal patient trajectories into generalizable representations for diverse clinical prediction tasks. Despite their effectiveness, FEMRs remain black-box models, raising concerns about bias, interpretability, and clinical trust. To address this, we propose the first token-level explainability approach for FEMRs. We train a Transformer-based surrogate model on input-output pairs from the FEMR across two prediction tasks, approximating its behavior while preserving temporal dynamics. We identify the most influential tokens, providing insights into how FEMRs leverage different aspects of patient history for predictions. To evaluate clinical relevance, we introduce a novel clinical alignment metric that quantifies the correspondence between the surrogate model’s key tokens and clinically validated features. Our results demonstrate that the surrogate closely approximates FEMR predictions and that token-level explanations align well with clinical knowledge, offering a practical framework for interpretable and trustworthy clinical AI.
+
+**Reference:** Huang, J., **Yin, P.**, Xu, Z., Capurro, D., Conway, M and Dang, T. (2026). X-FEMR: A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer, In Proceedings of International Joint Conferences on Artificial Intelligence(IJCAI 2026)(AI and Health Special Track, Accept Rate:18%)
 </div>
 </div>
 
@@ -88,12 +90,13 @@ I am a PhD candidate in the School of Computing and Information Systems at the [
 </div>
 
 # 🎉 News
+- *2026.05*: &nbsp; Invited to serve as a reviewer for the **ICML 2026 Workshop on Agents in the Wild**.
 - *2026.05*: &nbsp; Invited to serve as a reviewer for the **CVPR 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI)**.
 - *2026.04*: &nbsp; Invited to serve as a reviewer for the **Frontiers in Cardiovascular Medicine**.
 - *2026.02*: &nbsp; Invited to serve as a reviewer for the **ICLR 2026 Workshop AIWILD and ES-Reasoning**.
 - *2026.02*: &nbsp; Invited to serve as a reviewer for the **Journal of Pharmaceutical and Healthcare Marketing**.
-- *2025.11*: &nbsp; Invited to serve as a reviewer for the **Discover Artificial Intelligence**,**The journal of Supercomputing**.  
-- *2025.10*: &nbsp; Invited to serve as a reviewer for the **Journal of Biomedical Informatics**,**BMC Medical Genomics**. 
+- *2025.11*: &nbsp; Invited to serve as a reviewer for the **BMC Medical Genomics**,**Discover Artificial Intelligence**,**The journal of Supercomputing**.  
+- *2025.10*: &nbsp; Invited to serve as a reviewer for the **Journal of Biomedical Informatics**. 
 - *2023.04*: &nbsp; Invited to serve as a reviewer for the **American Medical Informatics Association Annual Symposium(AMIA) 2023**. 
 
 # 📖 Educations
