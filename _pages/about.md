@@ -94,7 +94,7 @@ I am a PhD candidate in the School of Computing and Information Systems at the [
 - *2026.02*: &nbsp; Invited to serve as a reviewer for the **Journal of Pharmaceutical and Healthcare Marketing**.
 - *2025.11*: &nbsp;  Invited to serve as a reviewer for the **BMC Medical Genomics**,**Discover Artificial Intelligence**,**The journal of Supercomputing**.  
 - *2025.10*: &nbsp; Invited to serve as a reviewer for the **Journal of Biomedical Informatics**. 
-- *2023.04*: &nbsp; Invited to serve as a reviewer for the 2023 **American Medical Informatics Association Annual Symposium(AMIA)**. 
+- *2023.04*: &nbsp; Invited to serve as a reviewer for the **American Medical Informatics Association Annual Symposium(AMIA) 2023**. 
 
 # 📖 Educations
 - *2024.03 - 2026.12*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au), Australia. 
