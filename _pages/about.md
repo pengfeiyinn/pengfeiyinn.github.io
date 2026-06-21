@@ -19,13 +19,24 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD candidate in the School of Computing and Information Systems at the [University of Melbourne](https://www.unimelb.edu.au), specializing in **Clinical Data Science**. My research involves the application of **Artificial Intelligence(AI)** within clinical settings to improve patient care and outcomes. I’m really passionate about **Computer Science** and **Biomedical Informatics**, and I love using new technology to make healthcare better for everyone. Currently,I focus on designing and evaluating Foundation Models that can make a meaningful impact in real medical practice. I am supervised by [A/Prof Daniel Capurro Nario](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) from [Center for Digital Transformation of Health](https://mdhs.unimelb.edu.au/digitalhealth) and [Dr.Abel Armas Cervantes](https://findanexpert.unimelb.edu.au/profile/822941-abel-armas-cervantes) from the School of Computing and Information Systems at the University of Melbourne.
+I am a PhD candidate in the School of Computing and Information Systems at the [University of Melbourne](https://www.unimelb.edu.au), specializing in **Clinical AI**. My research involves the application of **Artificial Intelligence(AI)** within clinical settings to improve patient care and outcomes. I’m really passionate about **Computer Science** and **Health Informatics**, and I love using new technology to make healthcare better for everyone. Currently,I focus on designing and evaluating Foundation Models that can make a meaningful impact in real medical practice. I am supervised by [A/Prof Daniel Capurro Nario](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) from [Center for Digital Transformation of Health](https://mdhs.unimelb.edu.au/digitalhealth) and [Dr.Abel Armas Cervantes](https://findanexpert.unimelb.edu.au/profile/822941-abel-armas-cervantes) from the School of Computing and Information Systems at the University of Melbourne.
 
 
 
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/measuring.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[X-FEMR: A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models](Accepted Rate:18%)
+
+- Foundation Models for Electronic Health Records (FEMRs) are pretrained on large-scale structured patient data, enabling them to convert longitudinal patient trajectories into generalizable representations for diverse clinical prediction tasks. Despite their effectiveness, FEMRs remain black-box models, raising concerns about bias, interpretability, and clinical trust. To address this, we propose the first token-level explainability approach for FEMRs. We train a Transformer-based surrogate model on input-output pairs from the FEMR across two prediction tasks, approximating its behavior while preserving temporal dynamics. We identify the most influential tokens, providing insights into how FEMRs leverage different aspects of patient history for predictions. To evaluate clinical relevance, we introduce a novel clinical alignment metric that quantifies the correspondence between the surrogate model’s key tokens and clinically validated features. Our results demonstrate that the surrogate closely approximates FEMR predictions and that token-level explanations align well with clinical knowledge, offering a practical framework for interpretable and trustworthy clinical AI.
+
+**Reference:** **Yin, P.**, Cervantes, A. A., & Capurro, D. (2026). X-FEMR: A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models. **International Joint Conference on Artificial Intelligence**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBI 2025</div><img src='images/measuring.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
