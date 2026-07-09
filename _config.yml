@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Pengfei(Kelly) Yin"
+title                    : "Pengfei Yin"
 description              : ""
 repository               : "pengfeiyinnn/pengfeiyin.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengfei(Kelly) Yin"
   avatar           : "images/photo.png"
-  bio              : "PhD Researcher"
+  bio              : "Research Engineer"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
