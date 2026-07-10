@@ -23,7 +23,6 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengfei(Kelly) Yin"
   avatar           : "images/photo.png"
-  bio              : "Research Engineer"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
