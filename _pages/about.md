@@ -26,7 +26,7 @@ My research develops computational methods that transform health data into trust
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/femr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [X-FEMR: A Token-level Explainable Approach for Electronic Health Records Foundation Models using Transformer-based Models](https://doi.org/10.48550/arXiv.2607.06163)
