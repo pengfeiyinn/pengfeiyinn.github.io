@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-My research develops computational methods that transform health data into trustworthy and clinically meaningful evidence for clinical decision support. Currently, I'm also working with Royal Melbourne Hospital to improve the quality of hospital care of people with dementia. 
+My research develops computational methods that transform health data into trustworthy and clinically meaningful evidence for clinical decision support. Currently, I also work as a research engineer at the Royal Melbourne Hospital, dedicated to improving the quality of hospital care for patients with dementia.
 
 
 
