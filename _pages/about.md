@@ -19,8 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD candidate in the School of Computing and Information Systems at the [University of Melbourne](https://www.unimelb.edu.au), specializing in **Clinical AI**. My research involves the application of **Artificial Intelligence(AI)** within clinical settings to improve patient care and outcomes. I’m really passionate about **Computer Science** and **Health Informatics**, and I love using new technology to make healthcare better for everyone. Currently,I focus on designing and evaluating Foundation Models that can make a meaningful impact in real medical practice. I am supervised by [Prof Daniel Capurro Nario](https://findanexpert.unimelb.edu.au/profile/852679-daniel-capurro-nario) from [Center for Digital Transformation of Health](https://mdhs.unimelb.edu.au/digitalhealth) and [Dr.Abel Armas Cervantes](https://findanexpert.unimelb.edu.au/profile/822941-abel-armas-cervantes) from the School of Computing and Information Systems at the University of Melbourne.
-
+My research develops computational methods that transform health data into trustworthy and clinically meaningful evidence for clinical decision support. Currently, I'm also working with Royal Melbourne Hospital to improve the quality of hospital care of people with dementia. 
 
 
 
