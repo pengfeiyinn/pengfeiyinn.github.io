@@ -89,6 +89,7 @@ My research develops computational methods that transform health data into trust
 </div>
 
 # 🎉 News
+- *2026.09*: &nbsp; Invited to serve as a reviewer for the **NeurIPS 2026 Workshop on Agents in the Wild**.
 - *2026.05*: &nbsp; Invited to serve as a reviewer for the **ICML 2026 Workshop on Agents in the Wild**.
 - *2026.05*: &nbsp; Invited to serve as a reviewer for the **CVPR 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI)**.
 - *2026.04*: &nbsp; Invited to serve as a reviewer for the **Frontiers in Cardiovascular Medicine**.
