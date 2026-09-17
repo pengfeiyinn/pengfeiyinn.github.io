@@ -107,7 +107,7 @@ The journal of Supercomputing<br>
 **ICLR** 2026 Workshop AIWILD and ES-Reasoning<br>
 American Medical Informatics Association Annual Symposium(AMIA) 2023<br>   
 
-# 📖 cv
+# 📖 Educations
 - *2024.03 - 2026.12*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au), Australia. 
 - *2019.08 - 2021.05*, Master of Science in Electrical and Computer Engineering , [University of Florida](https://www.ufl.edu)(GPA:3.8/4.0), United States.
 
