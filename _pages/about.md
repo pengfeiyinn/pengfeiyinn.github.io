@@ -90,6 +90,7 @@ My research develops computational methods that transform health data into trust
 
 # Grants & Awards
 - *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
+- *2024.03*: &nbsp; Melbourne Research Scholarship (AUD$37,000 per year for 3.5 years)
 
 # Journal Review
 Journal of Biomedical Informatics<br>
