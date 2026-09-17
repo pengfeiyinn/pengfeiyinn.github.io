@@ -89,7 +89,7 @@ My research develops computational methods that transform health data into trust
 </div>
 
 # Journal Review
-**N**<br>
+**Na**<br>
 Journal of Biomedical Informatics<br>
 Frontiers in Cardiovascular Medicine<br>
 Journal of Pharmaceutical and Healthcare Marketing<br>
