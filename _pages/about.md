@@ -88,7 +88,7 @@ My research develops computational methods that transform health data into trust
 </div>
 </div>
 
-# Grant & Awards
+# Grants & Awards
 - *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
 
 # Journal Reviewer
