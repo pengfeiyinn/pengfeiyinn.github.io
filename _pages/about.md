@@ -103,6 +103,3 @@ The Journal of Supercomputing<br>
 **ICLR** 2026 Workshop AIWILD and ES-Reasoning<br>
 American Medical Informatics Association Annual Symposium(AMIA) 2023<br>   
 
-# Grants & Awards
-- *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
-- *2024.03*: &nbsp; Melbourne Research Scholarship (AUD$37,000 per year for 3.5 years)
