@@ -106,4 +106,3 @@ The Journal of Supercomputing<br>
 **CVPR** 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI)<br>
 **ICLR** 2026 Workshop AIWILD and ES-Reasoning<br>
 American Medical Informatics Association Annual Symposium(AMIA) 2023<br>   
-
