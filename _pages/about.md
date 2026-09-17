@@ -92,7 +92,7 @@ My research develops computational methods that transform health data into trust
 - *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
 
 # Journal Reviewer
-**N**
+**N**<br>
 Journal of Biomedical Informatics<br>
 Frontiers in Cardiovascular Medicine<br>
 Journal of Pharmaceutical and Healthcare Marketing<br>
