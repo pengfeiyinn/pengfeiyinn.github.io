@@ -88,10 +88,6 @@ My research develops computational methods that transform health data into trust
 </div>
 </div>
 
-# Grants & Awards
-- *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
-- *2024.03*: &nbsp; Melbourne Research Scholarship (AUD$37,000 per year for 3.5 years)
-
 # Journal Review
 Journal of Biomedical Informatics<br>
 Frontiers in Cardiovascular Medicine<br>
@@ -106,3 +102,7 @@ The Journal of Supercomputing<br>
 **CVPR** 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI)<br>
 **ICLR** 2026 Workshop AIWILD and ES-Reasoning<br>
 American Medical Informatics Association Annual Symposium(AMIA) 2023<br>   
+
+# Grants & Awards
+- *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
+- *2024.03*: &nbsp; Melbourne Research Scholarship (AUD$37,000 per year for 3.5 years)
