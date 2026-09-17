@@ -91,8 +91,7 @@ My research develops computational methods that transform health data into trust
 # Grants & Awards
 - *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
 
-# Journal Reviewing
-**N**<br>
+# Journal Review
 Journal of Biomedical Informatics<br>
 Frontiers in Cardiovascular Medicine<br>
 Journal of Pharmaceutical and Healthcare Marketing<br>
@@ -100,7 +99,7 @@ BMC Medical Genomics<br>
 Discover Artificial Intelligence<br>
 The Journal of Supercomputing<br>     
      
-# Conference Reviewing
+# Conference Review
 **NeurIPS** 2026 Workshop on Agents in the Wild<br>
 **ICML** 2026 Workshop on Agents in the Wild<br>
 **CVPR** 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI)<br>
