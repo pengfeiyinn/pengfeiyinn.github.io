@@ -88,17 +88,24 @@ My research develops computational methods that transform health data into trust
 </div>
 </div>
 
-# 🎉 News
-- *2026.09*: &nbsp; Invited to serve as a reviewer for the NeurIPS 2026 Workshop on Agents in the Wild.
+#  Grand & Awards
 - *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
-- *2026.05*: &nbsp; Invited to serve as a reviewer for the ICML 2026 Workshop on Agents in the Wild.
-- *2026.05*: &nbsp; Invited to serve as a reviewer for the CVPR 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI).
-- *2026.04*: &nbsp; Invited to serve as a reviewer for the Frontiers in Cardiovascular Medicine.
-- *2026.02*: &nbsp; Invited to serve as a reviewer for the ICLR 2026 Workshop AIWILD and ES-Reasoning.
-- *2026.02*: &nbsp; Invited to serve as a reviewer for the Journal of Pharmaceutical and Healthcare Marketing.
-- *2025.11*: &nbsp; Invited to serve as a reviewer for the BMC Medical Genomics,Discover Artificial Intelligence,The journal of Supercomputing.  
-- *2025.10*: &nbsp; Invited to serve as a reviewer for the Journal of Biomedical Informatics. 
-- *2023.04*: &nbsp; Invited to serve as a reviewer for the American Medical Informatics Association Annual Symposium(AMIA) 2023. 
+
+
+# Journal Reviewer
+Frontiers in Cardiovascular Medicine.
+Journal of Pharmaceutical and Healthcare Marketing.
+BMC Medical Genomics
+Discover Artificial Intelligence
+The journal of Supercomputing.  
+Journal of Biomedical Informatics. 
+
+# Conference Reviewer
+NeurIPS 2026 Workshop on Agents in the Wild.
+ICML 2026 Workshop on Agents in the Wild.
+CVPR 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI).
+ICLR 2026 Workshop AIWILD and ES-Reasoning.
+American Medical Informatics Association Annual Symposium(AMIA) 2023.
 
 # 📖 Educations
 - *2024.03 - 2026.12*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au), Australia. 
