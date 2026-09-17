@@ -93,19 +93,19 @@ My research develops computational methods that transform health data into trust
 
 
 # Journal Reviewer
-Frontiers in Cardiovascular Medicine.
-Journal of Pharmaceutical and Healthcare Marketing.
-BMC Medical Genomics
-Discover Artificial Intelligence
-The journal of Supercomputing.  
-Journal of Biomedical Informatics. 
+Frontiers in Cardiovascular Medicine  
+Journal of Pharmaceutical and Healthcare Marketing  
+BMC Medical Genomics  
+Discover Artificial Intelligence  
+The journal of Supercomputing    
+Journal of Biomedical Informatics    
 
 # Conference Reviewer
-NeurIPS 2026 Workshop on Agents in the Wild.
-ICML 2026 Workshop on Agents in the Wild.
-CVPR 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI).
-ICLR 2026 Workshop AIWILD and ES-Reasoning.
-American Medical Informatics Association Annual Symposium(AMIA) 2023.
+NeurIPS 2026 Workshop on Agents in the Wild  
+ICML 2026 Workshop on Agents in the Wild  
+CVPR 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI)  
+ICLR 2026 Workshop AIWILD and ES-Reasoning  
+American Medical Informatics Association Annual Symposium(AMIA) 2023  
 
 # 📖 Educations
 - *2024.03 - 2026.12*, Doctor of Philosophy in Engineering and IT , [University of Melbourne](https://www.unimelb.edu.au), Australia. 
