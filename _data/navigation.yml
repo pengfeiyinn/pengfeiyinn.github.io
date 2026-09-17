@@ -5,12 +5,12 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-    
+
   - title: "Grant & Awards"
-    url: "/#-news"
-    
+    url: "/#grant--awards"
+
   - title: "Reviewer"
-    url: "/#-news"
+    url: "/#journal-reviewer"
 
   - title: "Educations"
     url: "/#-educations"
