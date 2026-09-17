@@ -93,12 +93,13 @@ My research develops computational methods that transform health data into trust
 
 
 # Journal Reviewer
+Journal of Biomedical Informatics<br>
 Frontiers in Cardiovascular Medicine<br>  
 Journal of Pharmaceutical and Healthcare Marketing<br>  
 BMC Medical Genomics<br> 
 Discover Artificial Intelligence<br>  
 The journal of Supercomputing<br>     
-Journal of Biomedical Informatics<br>     
+     
 
 # Conference Reviewer
 NeurIPS 2026 Workshop on Agents in the Wild<br>   
