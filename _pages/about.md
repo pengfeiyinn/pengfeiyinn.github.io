@@ -98,7 +98,7 @@ Frontiers in Cardiovascular Medicine<br>
 Journal of Pharmaceutical and Healthcare Marketing<br>
 BMC Medical Genomics<br>
 Discover Artificial Intelligence<br>
-The journal of Supercomputing<br>     
+The Journal of Supercomputing<br>     
      
 # Conference Reviewer
 **NeurIPS** 2026 Workshop on Agents in the Wild<br>
