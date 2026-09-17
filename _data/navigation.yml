@@ -6,14 +6,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
     
-  - title: "Grand & Awards"
-    url: "/#-grand & awards"
+  - title: "Grant & Awards"
+    url: "/#-news"
     
-  - title: "Journal Reviewer"
-    url: "/#-journal reviewer"
-
-  - title: "Conference Reviewer"
-    url: "/#-conference reviewer"
+  - title: "Reviewer"
+    url: "/#-news"
 
   - title: "Educations"
     url: "/#-educations"
