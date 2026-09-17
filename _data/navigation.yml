@@ -7,13 +7,13 @@ main:
     url: "/#-publications"
     
   - title: "Grand & Awards"
-    url: "/#-Grand & Awards"
+    url: "/#-grand & awards"
     
   - title: "Journal Reviewer"
-    url: "/#-Journal Reviewer"
+    url: "/#-journal reviewer"
 
   - title: "Conference Reviewer"
-    url: "/#-Conference Reviewer"
+    url: "/#-conference reviewer"
 
   - title: "Educations"
     url: "/#-educations"
