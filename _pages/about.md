@@ -92,6 +92,7 @@ My research develops computational methods that transform health data into trust
 - *2026.06*: &nbsp; Awarded IJCAI Travel Grant (USD 800).
 
 # Journal Reviewer
+**N**
 Journal of Biomedical Informatics<br>
 Frontiers in Cardiovascular Medicine<br>
 Journal of Pharmaceutical and Healthcare Marketing<br>
@@ -100,10 +101,10 @@ Discover Artificial Intelligence<br>
 The journal of Supercomputing<br>     
      
 # Conference Reviewer
-NeurIPS 2026 Workshop on Agents in the Wild<br>
-ICML 2026 Workshop on Agents in the Wild<br>
-CVPR 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI)<br>
-ICLR 2026 Workshop AIWILD and ES-Reasoning<br>
+**NeurIPS** 2026 Workshop on Agents in the Wild<br>
+**ICML** 2026 Workshop on Agents in the Wild<br>
+**CVPR** 2026 Workshop Multi-Modal Reasoning for Agentic Intelligence(MMRAgI)<br>
+**ICLR** 2026 Workshop AIWILD and ES-Reasoning<br>
 American Medical Informatics Association Annual Symposium(AMIA) 2023<br>   
 
 # 📖 Educations
