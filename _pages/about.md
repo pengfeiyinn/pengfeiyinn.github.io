@@ -87,7 +87,7 @@ My research focuses on developing computational methods to transform health data
 </div>
 
 # Journal Review
-**Nature Communications Health**(https://www.nature.com/commshealth/)<br>
+**[Nature Communications Health](https://www.nature.com/commshealth/)**<br>
 Journal of Biomedical Informatics<br>
 Discover Artificial Intelligence<br>
 Frontiers in Cardiovascular Medicine<br>
