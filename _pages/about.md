@@ -21,7 +21,7 @@ redirect_from:
 
 My research focuses on developing computational methods to transform health data into trustworthy and clinically meaningful evidence for clinical decision-making support. Currently, I work as a research engineer at the Royal Melbourne Hospital, dedicated to improving the quality of hospital care for patients with dementia. 
 
-# 📝 Selected Publications 
+# 📝 Recent Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/femr.png' alt="sym" width="100%"></div></div>
