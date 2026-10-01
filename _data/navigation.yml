@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#-recent-publications"
 
   - title: "Peer Review"
     url: "/#journal-review"
