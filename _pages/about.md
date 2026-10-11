@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
-
-My research focuses on developing computational methods to transform health data into trustworthy and clinically meaningful evidence for clinical decision-making support. Currently, I work as a research engineer at the Royal Melbourne Hospital, dedicated to improving the quality of hospital care for patients with dementia. 
+ 
+Pengfei is a clinical AI researcher whose work bridges machine learning, process mining, and EHR analytics. Her research focuses on developing computational methods that transform health data into trustworthy, clinically meaningful evidence to support clinical decision-making. Currently, she works as a research engineer at the Royal Melbourne Hospital, dedicated to improving the quality of hospital care for patients with dementia. 
 
 # 📝 Recent Publications 
 
